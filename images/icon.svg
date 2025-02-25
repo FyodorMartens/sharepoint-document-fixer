@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="60" fill="#0078D4"/>
+  
+  <!-- Document icon -->
+  <rect x="34" y="24" width="60" height="80" rx="4" fill="white"/>
+  
+  <!-- Lines representing text -->
+  <rect x="44" y="44" width="40" height="4" rx="2" fill="#0078D4"/>
+  <rect x="44" y="56" width="40" height="4" rx="2" fill="#0078D4"/>
+  <rect x="44" y="68" width="30" height="4" rx="2" fill="#0078D4"/>
+  
+  <!-- Edit pencil -->
+  <path d="M85,80 l15,-15 l8,8 l-15,15 z" fill="#107C41"/>
+</svg> 
